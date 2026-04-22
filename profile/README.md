@@ -1,11 +1,11 @@
-# 🏗️ DEVision – Squad Hercules (EEET2582 / ISYS3461)
+# <img width="24" alt="DEVision" src="https://github.com/user-attachments/assets/04cd972d-e064-459c-a2a9-3d7b95a85d86" /> DEVision – Squad Hercules (EEET2582 / ISYS3461)
 
 > “An Cư Lạc Nghiệp” – *Settled and Flourished*  
 > A microservice-based job recruitment ecosystem connecting job seekers and employers in the Computer Science field.
 
 ---
 
-## 🌍 Project Overview
+## Project Overview
 
 **DEVision** is a two-subsystem platform that bridges **Job Applicants** and **Job Managers** in a transparent, secure, and scalable way.
 
@@ -17,7 +17,7 @@ All services are **containerized with Docker** and can be **orchestrated using K
 
 ---
 
-## 👥 Squad Hercules – Team Members & Roles
+## Squad Hercules – Team Members & Roles
 
 ### 🔹 Overall Squad Role Distribution
 
@@ -56,7 +56,7 @@ All services are **containerized with Docker** and can be **orchestrated using K
 
 ---
 
-### 🧭 Coordination Summary
+### Coordination Summary
 
 - **Cross-team integration** handled by the **Backend Leads** (Son & Khoa) and **DevOps Engineers** (Phat & Hao).  
 - **Frontend Leads** ensure design and component consistency between subsystems.  
@@ -65,7 +65,7 @@ All services are **containerized with Docker** and can be **orchestrated using K
 
 ---
 
-## 🧩 System Architecture
+## System Architecture
 
 | Layer | Technology | Description |
 |--------|-------------|-------------|
@@ -77,7 +77,7 @@ All services are **containerized with Docker** and can be **orchestrated using K
 
 ---
 
-## 🚀 Repositories
+## Repositories
 
 | Repository | Description |
 |-------------|-------------|
@@ -88,7 +88,7 @@ All services are **containerized with Docker** and can be **orchestrated using K
 
 ---
 
-## 📅 Sprint Timeline
+## Sprint Timeline
 
 | Sprint | Duration | Key Deliverables |
 |--------|-----------|------------------|
@@ -100,15 +100,15 @@ All services are **containerized with Docker** and can be **orchestrated using K
 
 ---
 
-## 📊 Project Management & Workflow
+## Project Management & Workflow
 
 **Methodology:** SCRUM (2-week sprints)  
 **Tracking Tool:** GitHub Projects (Kanban Board)
 
-### 🧭 Board Columns
+### Board Columns
 > Product Backlog → Sprint Backlog → In Progress → Review → Staging → Done
 
-### 🧱 Branching Strategy
+### Branching Strategy
 - `main`: stable milestone versions  
 - `dev`: latest integrated development branch  
 - `feature/*`: feature-specific branches  
@@ -116,7 +116,7 @@ All services are **containerized with Docker** and can be **orchestrated using K
 
 ---
 
-## 🧠 Communication Rules
+## Communication Rules
 
 - **Meetings:** Every 2–3 days via Microsoft Teams / Discord  
 - **Daily Updates:** Shared on GitHub Discussions or Messenger  
@@ -125,7 +125,7 @@ All services are **containerized with Docker** and can be **orchestrated using K
 
 ---
 
-## 🔐 Quality and Security
+## Quality and Security
 
 - **Authentication:** JSON Web Encryption (JWE) tokens  
 - **Data Protection:** Encrypted credentials and sensitive data  
@@ -134,14 +134,14 @@ All services are **containerized with Docker** and can be **orchestrated using K
 
 ---
 
-## 👨‍🏫 Lecturer Access
+## Lecturer Access
 
 **Lecturer:** *Tri Huynh*  
 Added as a collaborator to all repositories and GitHub Project Board for real-time monitoring and feedback.
 
 ---
 
-## 🏁 Vision Statement
+## Vision Statement
 
 DEVision aims to embody Vietnam’s value of *“An Cư Lạc Nghiệp”* — helping people find meaningful careers by connecting skilled applicants and innovative employers through a modern, microservice-driven recruitment ecosystem.
 
