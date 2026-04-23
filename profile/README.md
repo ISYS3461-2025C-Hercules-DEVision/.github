@@ -1,4 +1,4 @@
-# <img width="24" alt="DEVision" src="https://github.com/user-attachments/assets/04cd972d-e064-459c-a2a9-3d7b95a85d86" /> DEVision – Squad Hercules (EEET2582 / ISYS3461)
+# DEVision – Squad Hercules (EEET2582 / ISYS3461)
 
 > “An Cư Lạc Nghiệp” – *Settled and Flourished*  
 > A microservice-based job recruitment ecosystem connecting job seekers and employers in the Computer Science field.
